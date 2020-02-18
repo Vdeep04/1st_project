@@ -1,1 +1,1 @@
-# my-projects
+# My first project (Titanic Dataset)
